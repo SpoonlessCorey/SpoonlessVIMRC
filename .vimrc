@@ -1,1 +1,0 @@
-/home/spoonless/.vim/vimrc
