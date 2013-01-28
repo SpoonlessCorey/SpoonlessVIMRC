@@ -1,16 +1,8 @@
-
 "automatically reload vimrc
 autocmd! bufwritepost ~/.vim/vimrc source %
 
 " Enable mouse usage (all modes)
 set mouse=a
-
-"Pugins to add:
-"snipmate
-"nnoremap
-"fuzzyfinder
-"ctags
-
 
 "fix tabs
 set tabstop=2
